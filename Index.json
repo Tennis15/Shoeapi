@@ -1,0 +1,205 @@
+const categoriesData={
+  Running:[
+  {
+    image: 'https://academy.scene7.com/is/image/academy/20662855?$pdp-gallery-ng$',
+    name:'Black Women Under Armour Shoes',
+    price: '$30',
+    quality: 'Fairly new',
+  },
+
+    {
+    image:'https://academy.scene7.com/is/image/academy/21150643?$pdp-gallery-ng$',
+    name:'Nike Mens Interact Shoes',
+    price: '$50',
+    quality: 'Really new',
+  },
+
+    {
+    image:'https://academy.scene7.com/is/image/academy/20662855?$pdp-gallery-ng$',
+    name:'Nike Mens Revolution 6 Next Nature Running Shoes',
+    size: '13',
+    price: '$30',
+    quality: 'New',
+  },
+
+      {
+    image:'https://academy.scene7.com/is/image/academy/21150643?$pdp-gallery-ng$',
+    name:'Black Women Under Armour Shoes',
+    size: '11',
+    price: '$30',
+    quality: 'Fairly new',
+  },
+
+    {
+    image:'https://academy.scene7.com/is/image/academy/20953900?$pdp-gallery-ng$',
+    name:'Under Armour Mens Charged Pursuit 3 Freedom Running Shoes',
+     size: '12',
+    price: '$45',
+    quality: 'Fairly new',
+  }
+],
+
+
+
+ Casual:[
+  {
+    image:'https://snack-code-uploads.s3.us-west-1.amazonaws.com/%7Easset/395663140fb270fae401966144b9cdae',
+    name:'Brown Boots',
+    price: '$30',
+    quality: 'Fairly new',
+  },
+
+    {
+    image:'https://snack-code-uploads.s3.us-west-1.amazonaws.com/%7Easset/34fd78f6cb22e11751f13dd5d7e179b3',
+    name:'Pink High Top Sandals',
+    price: '$50',
+    quality: 'Really new',
+  },
+
+    {
+    image:'',
+    name:'Nike Mens Revolution 6 Next Nature Running Shoes',
+    size: '13',
+    price: '$30',
+    quality: 'New',
+  },
+
+      {
+    image:'',
+    name:'Black Women Under Armour Shoes',
+    size: '11',
+    price: '$30',
+    quality: 'Fairly new',
+  },
+
+    {
+    image:'',
+    name:'Under Armour Mens Charged Pursuit 3 Freedom Running Shoes',
+     size: '12',
+    price: '$45',
+    quality: 'Fairly new',
+  }
+]
+,
+
+
+
+  Formal:[
+  {
+    image:'https://snack-code-uploads.s3.us-west-1.amazonaws.com/%7Easset/56cafb323e989d254f277bd08e0687c2',
+    name:'Pink Women Anne Klein Heels',
+    price: '$30',
+    quality: 'Fairly new',
+  },
+
+    {
+    image:'https://snack-code-uploads.s3.us-west-1.amazonaws.com/%7Easset/be55e458eb7f2a4ae2df87233342fce8',
+    name:'GAP Kids Shoes',
+    price: '$50',
+    quality: 'Really new',
+  },
+
+    {
+    image:'https://snack-code-uploads.s3.us-west-1.amazonaws.com/%7Easset/184da71f280d0f15958601df91f4c8b4',
+    name:'Black JLO Heels',
+    size: '13',
+    price: '$30',
+    quality: 'New',
+  },
+
+      {
+    image:'https://snack-code-uploads.s3.us-west-1.amazonaws.com/%7Easset/987a9935e530ba899cab47c251fd785b',
+    name:'Brown GAP Kids Shoes',
+    size: '11',
+    price: '$30',
+    quality: 'Fairly new',
+  },
+
+    {
+    image:'https://snack-code-uploads.s3.us-west-1.amazonaws.com/%7Easset/a4168a0c8cc21883c578c4fafc05f512',
+    name:'AND1 Kids Neon Shoes',
+     size: '12',
+    price: '$45',
+    quality: 'Fairly new',
+  }
+],
+Sports:[
+  {
+    image:'https://snack-code-uploads.s3.us-west-1.amazonaws.com/%7Easset/c0a5894963dae580032b61f62c82cf9d',
+    name:'Red Kids AND1 Shoes',
+    price: '$30',
+    quality: 'Fairly new',
+  },
+
+    {
+    image:'https://snack-code-uploads.s3.us-west-1.amazonaws.com/%7Easset/7ce94fbb077bab6b24bb9608026b6558',
+    name:'Pink Kids Cleat Shoes',
+    price: '$50',
+    quality: 'Really new',
+  },
+
+    {
+    image:'https://snack-code-uploads.s3.us-west-1.amazonaws.com/%7Easset/a4168a0c8cc21883c578c4fafc05f512',
+    name:'Black Neon AND1 Kids Shoes Shoes',
+    size: '13',
+    price: '$30',
+    quality: 'New',
+  },
+
+      {
+    image:'https://snack-code-uploads.s3.us-west-1.amazonaws.com/%7Easset/a4b585a7d43da4370c42bd8c2ca5d19f',
+    name:'Black AND1 Kids Shoes',
+    size: '11',
+    price: '$30',
+    quality: 'Fairly new',
+  },
+
+    {
+    image:'https://snack-code-uploads.s3.us-west-1.amazonaws.com/%7Easset/b3ed8af6454fcc137b870322de27c204',
+    name:'Red Boys Under Armour Shoes',
+     size: '12',
+    price: '$45',
+    quality: 'Fairly new',
+  }
+],
+
+ Boots:[
+  {
+    image :'https://snack-code-uploads.s3.us-west-1.amazonaws.com/%7Easset/b97e76a7ad3b386a22d9a02c46424536',
+    name:'Black Women Under Armour Shoes',
+    price: '$30',
+    quality: 'Fairly new',
+  },
+
+    {
+    image:'https://academy.scene7.com/is/image/academy/21150643?$pdp-gallery-ng$',
+    name:'Nike Mens Interact Shoes',
+    price: '$50',
+    quality: 'Really new',
+  },
+
+    {
+    image:'https://academy.scene7.com/is/image/academy/20662855?$pdp-gallery-ng$',
+    name:'Nike Mens Revolution 6 Next Nature Running Shoes',
+    size: '13',
+    price: '$30',
+    quality: 'New',
+  },
+
+      {
+    image:'https://academy.scene7.com/is/image/academy/21150643?$pdp-gallery-ng$',
+    name:'Black Women Under Armour Shoes',
+    size: '11',
+    price: '$30',
+    quality: 'Fairly new',
+  },
+   
+    {
+    image:'https://academy.scene7.com/is/image/academy/20953900?$pdp-gallery-ng$',
+    name:'Under Armour Mens Charged Pursuit 3 Freedom Running Shoes',
+     size: '12',
+    price: '$45',
+    quality: 'Fairly new',
+  }
+]
+}
